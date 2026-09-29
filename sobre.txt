@@ -1,2 +1,2 @@
-Arquivo sobre o projeto
+Projeto de estudo sobre conflitos de merge (versão da branch)
 Conteúdo atualizado na main
