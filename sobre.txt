@@ -1,2 +1,2 @@
 Projeto de estudo sobre conflitos de merge (versão da main)
-Conteúdo atualizado na main
+Segunda linha alterada na feature/multiplos-arquivos
