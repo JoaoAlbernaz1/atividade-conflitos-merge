@@ -1,1 +1,1 @@
-# atividade-conflitos-merge
+# Atividade Conflitos de Merge (versão da branch)
