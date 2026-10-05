@@ -6,8 +6,8 @@ Atividade em sala da disciplina de Desenvolvimento Mobile — **Aula 06: Correç
 
 | Nome | Matrícula | GitHub |
 |---|---|---|
-| João Victor Albernaz | _preencher_ | [@JoaoAlbernaz1](https://github.com/JoaoAlbernaz1) |
-| João Pedro | _preencher_ | [@jotape148](https://github.com/jotape148) |
+| João Victor Albernaz | uc23101140 | [@JoaoAlbernaz1](https://github.com/JoaoAlbernaz1) |
+| João Pedro Tavares Teixeira | uc23100608 | [@jotape148](https://github.com/jotape148) |
 
 ## O que foi pedido
 
